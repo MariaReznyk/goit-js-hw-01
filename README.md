@@ -1,2 +1,3 @@
 # goit-js-hw-01
-GoIT School / Java Skript / Homework#1 
+
+GoIT School / Java Script / Homework#1
